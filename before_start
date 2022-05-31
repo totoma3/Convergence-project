@@ -1,0 +1,7 @@
+1.  pip install django
+2.  pip install mysql
+3.  pip install djangorestframework
+4.  python manage.py runserver
+5.  localhost:8000/tests
+
+순서대로 진행하시면 됩니다.
